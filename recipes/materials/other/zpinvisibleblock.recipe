@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "phasematter", "count" : 1 }
+  ],
+  "output" : { "item" : "zpinvisibleblock", "count" : 200 },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

@@ -1,0 +1,46 @@
+{
+  "objectName" : "zpdarkwoodenbed",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Rare",
+  "description" : "A very comfy dark wooden bed.",
+  "shortdescription" : "Dark Wooden Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+
+  "apexDescription" : "A well-made wooden bed, nice and comfortable.",
+  "avianDescription" : "A wooden frame and a comfortable mattress. What more could you need?",
+  "floranDescription" : "Wood lookss like cooked meat. Makess Floran hungry.",
+  "glitchDescription" : "Drowsy. Sleeping in this bed should be pleasant.",
+  "humanDescription" : "This bed looks really comfy.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "A decent place to get some shut-eye.",
+
+  "inventoryIcon" : "zpdarkwoodenbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpdarkwoodenbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/decorative/wooden/zpdarkwoodenbed/zpdarkwoodenbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

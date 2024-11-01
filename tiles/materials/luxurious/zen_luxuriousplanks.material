@@ -1,0 +1,21 @@
+{
+  "materialId": 12259,
+  "materialName": "zen_luxuriousplanks",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriousplanks",
+  "description": "These polished planks somehow have no grain.",
+  "shortdescription": "Luxurious Planks",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 2,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriousplanks.png",
+    "variants": 5,
+    "lightTransparent": false,
+    "occludesBelow": true,
+	"multiColored": true,
+    "zLevel": 2830
+  }
+}

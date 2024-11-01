@@ -1,0 +1,25 @@
+{
+  "materialId" : 12213,
+  "materialName" : "zptechblock1",
+  "particleColor" : [85, 85, 85, 255],
+  "itemDrop" : "zptechblock1", 
+  "description" : "A metal panel with embedded circuits and lights.",
+  "shortdescription" : "Metal Tech Panel",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Curious. Is the placement of these lights randomized?.",
+  "floranDescription" : "Floran prefer ssunlight.",
+  "novakidDescription" : "Some weird-lookin' panel covered in lights.",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zptechblock1.png",
+    "variants" : 10,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 19
+  }
+}

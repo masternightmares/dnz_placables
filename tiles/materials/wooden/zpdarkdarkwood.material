@@ -1,0 +1,20 @@
+{
+  "materialId" : 12220,
+  "materialName" : "zpdarkdarkwood",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkdarkwood",
+  "description" : "Dark wood that has been prepared for building.",
+  "shortdescription" : "Dark Timber",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkdarkwood.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2830
+  }
+}

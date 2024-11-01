@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousbeam",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousbeam.png",
+  "description" : "A beautiful wooden beam.",
+  "shortdescription" : "Luxurious Beam",
+
+  "materialId" : 12254
+}

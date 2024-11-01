@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 1 }
+  ],
+  "output" : { "item" : "zen_industrialmetalbars", "count" : 50 },
+  "groups" : [ "craftingfurniture", "materials", "all" ]
+}

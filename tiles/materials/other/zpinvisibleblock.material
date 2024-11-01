@@ -1,0 +1,24 @@
+{
+  "materialId" : 12237,
+  "materialName" : "zpinvisibleblock",
+  "particleColor" : [13, 39, 7, 255],
+  "itemDrop" : "zpinvisibleblock",
+  "description" : "A strange block that allows all light to pass through, making it invisible to the eye.",
+  "shortdescription" : "Invisible Matter",
+  "glitchDescription" : "Interested. This material is perfectly invisible.",
+  "floranDescription" : "Floran can't ssee this!",
+  "novakidDescription" : "Some funky invisible material.",
+  "footstepSound" : "/sfx/blocks/footstep_ice.ogg",
+  "health" : 5,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpinvisibleblock.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : false,
+    "zLevel" : 3960
+  }
+}

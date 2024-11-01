@@ -1,0 +1,21 @@
+{
+  "materialId": 12269,
+  "materialName": "zen_industrialgrate",
+  "particleColor": [55, 55, 55, 255],
+  "itemDrop": "zen_industrialgrate",
+  "description": "A metal grate normally used for ventilation.",
+  "shortdescription": "Industrial Grate",
+  "footstepSound": "/sfx/blocks/footstep_lightmetal.ogg",
+  "health": 10,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/girdertemplate.config",
+  "renderParameters": {
+    "texture": "zen_industrialgrate.png",
+    "variants": 6,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "multiColored": true,
+    "zLevel": 1700
+  }
+}

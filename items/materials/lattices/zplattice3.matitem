@@ -1,0 +1,11 @@
+{
+  "itemName" : "zplattice3",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zplattice3.png",
+  "description" : "A thin, bordered metal lattice, but horizontal.",
+  "shortdescription" : "Thin Metal Lattice (Alt)",
+
+  "materialId" : 12206
+}

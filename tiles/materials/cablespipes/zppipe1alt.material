@@ -1,0 +1,24 @@
+{
+  "materialId" : 12235,
+  "materialName" : "zppipe1alt",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zppipe1alt",
+  "description" : "A tough airduct. This one has a lighter gray color. Not much else to say.",
+  "shortdescription" : "Metal Airduct (Light)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Curious. What flows through this pipe?",
+  "floranDescription" : "Sshiny metal pipe.",
+  "novakidDescription" : "A weirdly-shaped metal pipe.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zppipe1alt.png",
+    "variants" : 2,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 200
+  }
+}

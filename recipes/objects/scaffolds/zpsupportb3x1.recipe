@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 2 }
+  ],
+  "output" : { "item" : "zpsupportb3x1", "count" : 3 },
+  "duration" : 0.30,
+  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
+}

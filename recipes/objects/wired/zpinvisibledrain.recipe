@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 3 },
+    { "item" : "tungstenbar", "count" : 6 },
+	{ "item" : "phasematter", "count" : 1 }
+  ],
+  "output" : { "item" : "zpinvisibledrain", "count" : 3 },
+  "duration" : 0.20,
+  "groups"  : [ "craftingwiring", "mechanics" ]
+}

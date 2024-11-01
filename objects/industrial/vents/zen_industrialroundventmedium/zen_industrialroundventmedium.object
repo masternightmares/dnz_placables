@@ -1,0 +1,24 @@
+{
+  "objectName" : "zen_industrialroundventmedium",
+  "rarity" : "Uncommon",
+  "description" : "A bigger metal vent.",
+  "shortdescription" : "Industrial Vent (M)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 110,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zen_industrialroundventmedium.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

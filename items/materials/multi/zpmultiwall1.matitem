@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpmultiwall1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpmultiwall1.png",
+  "description" : "A (vertically) curved metal wall. Paint it for different variants!",
+  "shortdescription" : "Curved Wall Block (Variable)",
+
+  "materialId" : 12207
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialgrate",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialgrate.png",
+  "description": "A metal grate normally used for ventilation.",
+  "shortdescription": "Industrial Grate",
+  "materialId": 12269
+}

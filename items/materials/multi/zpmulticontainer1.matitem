@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpmulticontainer1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpmulticontainer1.png",
+  "description" : "A heavy, solid metal crate. Paint it for different variants!",
+  "shortdescription" : "Metal Crate (Variable)",
+
+  "materialId" : 12232
+}

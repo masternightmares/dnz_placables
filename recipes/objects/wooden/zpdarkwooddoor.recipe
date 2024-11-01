@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "zpdarkdarkwood", "count" : 15 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : { "item" : "zpdarkwooddoor", "count" : 1 },
+  "duration" : 0.3,
+  "groups"  : [ "craftingfurniture", "doors", "all" ]
+}

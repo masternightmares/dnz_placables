@@ -1,0 +1,11 @@
+{
+  "itemName": "zen_industrialbackwall",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialbackwall.png",
+  "description": "A strong, recessed metal wall.",
+  "shortdescription": "Industrial Back Wall",
+
+  "materialId": 12273
+}

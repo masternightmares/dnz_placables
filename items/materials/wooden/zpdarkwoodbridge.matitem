@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodbridge",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodbridge.png",
+  "description" : "The wood is new and well-crafted.",
+  "shortdescription" : "Dark Wooden Bridge Block",
+
+  "materialId" : 12224
+}

@@ -1,0 +1,20 @@
+{
+  "materialId" : 12227,
+  "materialName" : "zpdarkwoodpanelling",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkwoodpanelling",
+  "description" : "This wood panelling looks somewhat fashionable.",
+  "shortdescription" : "Dark Wood Panelling",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodpanelling.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2710
+  }
+}

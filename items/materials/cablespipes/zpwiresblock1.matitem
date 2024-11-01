@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpwiresblock1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpwiresblock1.png",
+  "description" : "Bundled, thick wires.",
+  "shortdescription" : "Large Wire Block",
+
+  "materialId" : 12203
+}

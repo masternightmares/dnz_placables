@@ -1,0 +1,20 @@
+{
+  "materialId" : 12228,
+  "materialName" : "zpdarkwoodenwindow1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkwoodenwindow1",
+  "description" : "A window with dark wooden panes.",
+  "shortdescription" : "Dark Wooden Window",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodenwindow1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 500
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpmultiwall3",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpmultiwall3.png",
+  "description" : "A metal wall made with 2 layers of metal. Paint it for different variants!",
+  "shortdescription" : "Layered Wall Block (Variable)",
+
+  "materialId" : 12209
+}

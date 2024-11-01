@@ -1,0 +1,10 @@
+{
+  "itemName" : "zen_classicstone",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "zen_classicstone.png",
+  "description" : "Smooth, gray stone used in construction.",
+  "shortdescription" : "Classic Stone",
+  "itemTags" : [ "reagent" ]
+}

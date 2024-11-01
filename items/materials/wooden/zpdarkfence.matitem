@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkfence",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkfence.png",
+  "description" : "A sturdy, polished dark wooden fence.",
+  "shortdescription" : "Dark Wooden Fence",
+
+  "materialId" : 12222
+}

@@ -1,0 +1,20 @@
+{
+  "materialId": 12256,
+  "materialName": "zen_luxuriouscornice",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriouscornice",
+  "description": "A wooden cornice that was masterfully carved.",
+  "shortdescription": "Luxurious Cornice",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 2,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriouscornice.png",
+    "variants": 5,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "zLevel": 2810
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkfullwood1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkfullwood1.png",
+  "description" : "Carefully treated dark wood that maintains a freshly chopped appearance.",
+  "shortdescription" : "Dark Treated Wood",
+
+  "materialId" : 12221
+}

@@ -1,0 +1,24 @@
+{
+  "objectName" : "zpvent1balt",
+  "rarity" : "Rare",
+  "description" : "A bigger vent with bars in the shape of an 'X'. This one has a lighter gray color.",
+  "shortdescription" : "X-Barred Vent (3x3 Light)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 150,
+
+  "inventoryIcon" : "zpvent1balticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpvent1balt.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

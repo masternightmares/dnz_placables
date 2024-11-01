@@ -1,0 +1,24 @@
+{
+  "objectName" : "zen_pottedpilea_small",
+  "colonyTags" : ["nature","pretty"],
+  "rarity" : "Uncommon",
+  "description" : "A small houseplant in a cylindrical pot.",
+  "shortdescription" : "Potted Pilea",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 40,
+
+  "inventoryIcon" : "zen_pottedpilea_smallicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zen_pottedpilea_small.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

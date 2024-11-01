@@ -1,0 +1,44 @@
+{
+  "objectName" : "zen_luxuriouswardrobe",
+  "colonyTags" : ["commerce","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A polished wooden wardrobe.",
+  "shortdescription" : "Luxurious Wardrobe",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 230,
+  "health" : 1.5,
+
+  "inventoryIcon" : "zen_luxuriouswardrobeicon.png",
+  "orientations" : [
+    {
+      "image" : "zen_luxuriouswardrobe.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "zen_luxuriouswardrobe.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodendoor_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodendoor_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkornateflooring",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkornateflooring.png",
+  "description" : "Delightful dark ornate flooring.",
+  "shortdescription" : "Dark Ornate Flooring",
+
+  "materialId" : 12225
+}

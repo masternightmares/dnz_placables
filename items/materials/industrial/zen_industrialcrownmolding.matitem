@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_industrialcrownmolding",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_industrialcrownmolding.png",
+  "description" : "Solid crown molding.",
+  "shortdescription" : "Industrial Crown Molding",
+
+  "materialId" : 12272
+}

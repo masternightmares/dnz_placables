@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodenwindow2",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodenwindow2.png",
+  "description" : "Dark wooden slats that don't let much light through.",
+  "shortdescription" : "Dark Wooden Blinds",
+
+  "materialId" : 12229
+}

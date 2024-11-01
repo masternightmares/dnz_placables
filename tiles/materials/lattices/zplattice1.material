@@ -1,0 +1,26 @@
+{
+  "materialId" : 12204,
+  "materialName" : "zplattice1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zplattice1",
+  "description" : "A bordered metal lattice.",
+  "shortdescription" : "Metal Lattice",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+  
+  "glitchDescription" : "Indifferent. A common metal lattice.",
+  "floranDescription" : "Floran ssees prey through fence.",
+  "novakidDescription" : "A metal fence of some kind.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zplattice1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 155
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpcable1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpcable1.png",
+  "description" : "A thin metallic cable, because vanilla doesn't have single-cable blocks.",
+  "shortdescription" : "Thin Cable",
+
+  "materialId" : 12201
+}

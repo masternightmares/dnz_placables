@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "zen_luxuriousboard",
+      "count": 2
+    }, {
+      "item": "zen_luxuriousfabric",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_luxurioustable",
+    "count": 1
+  },
+  "groups": ["craftingfurniture", "decoration", "all"]
+}

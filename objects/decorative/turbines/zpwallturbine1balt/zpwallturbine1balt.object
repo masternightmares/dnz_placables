@@ -1,0 +1,35 @@
+{
+  "objectName" : "zpwallturbine1balt",
+  "rarity" : "Rare",
+  "description" : "A turbine, encased in the wall and protected by glass. This one fits in smaller spaces and has a lighter gray color.",
+  "shortdescription" : "Wall Turbine (4x3 Light)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpwallturbine1balticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "zpwallturbine1balt.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+	  "flipImages" : true,
+	  
+      "direction" : "left",
+      "anchors" : [ "background" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "zpwallturbine1balt.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+      "direction" : "right",
+      "anchors" : [ "background" ]
+    }
+  ]
+}

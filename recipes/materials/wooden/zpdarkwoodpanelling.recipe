@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "zpdarkdarkwood", "count" : 2 }
+  ],
+  "output" : { "item" : "zpdarkwoodpanelling", "count" : 50 },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

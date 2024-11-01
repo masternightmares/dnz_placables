@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpcable1alt",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpcable1alt.png",
+  "description" : "A thin metallic cable with rounded corners, because vanilla doesn't have single-cable blocks.",
+  "shortdescription" : "Thin Rounded Cable",
+
+  "materialId" : 12202
+}

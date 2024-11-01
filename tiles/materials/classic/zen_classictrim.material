@@ -1,0 +1,21 @@
+{
+  "materialId" : 12262,
+  "materialName" : "zen_classictrim",
+  "particleColor" : [147, 143, 137, 255],
+  "itemDrop" : "zen_classictrim",
+  "description" : "A stone trim used to decorate buildings.",
+  "shortdescription" : "Classic Trim",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 16,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_classictrim.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+	"multiColored": true,
+    "zLevel" : 3240
+  }
+}

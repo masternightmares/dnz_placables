@@ -1,0 +1,11 @@
+{
+  "itemName" : "zptechblock1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zptechblock1.png",
+  "description" : "A metal block with embedded circuits and lights.",
+  "shortdescription" : "Metal Tech Panel",
+
+  "materialId" : 12213
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialouterwallfront",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialouterwallfront.png",
+  "description": "A thick alloy wall built for extreme conditions.",
+  "shortdescription": "Industrial Outer Wall (Front)",
+  "materialId": 12275
+}

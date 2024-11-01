@@ -1,0 +1,20 @@
+{
+  "materialId" : 12224,
+  "materialName" : "zpdarkwoodbridge",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkwoodbridge",
+  "description" : "The wood is new and well-crafted.",
+  "shortdescription" : "Dark Wooden Bridge Block",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodbridge.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2850
+  }
+}

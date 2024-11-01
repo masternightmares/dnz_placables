@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriouscornice",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriouscornice.png",
+  "description" : "A wooden cornice that was masterfully carved.",
+  "shortdescription" : "Luxurious Cornice",
+
+  "materialId" : 12256
+}

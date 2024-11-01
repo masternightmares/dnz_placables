@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_classicbricks",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_classicbricks.png",
+  "description" : "Carved stone bricks.",
+  "shortdescription" : "Classic Bricks",
+
+  "materialId" : 12260
+}

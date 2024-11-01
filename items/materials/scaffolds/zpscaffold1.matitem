@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpscaffold1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpscaffold1.png",
+  "description" : "A metal window with perfectly clear glass.",
+  "shortdescription" : "Metal Window Block",
+
+  "materialId" : 12214
+}

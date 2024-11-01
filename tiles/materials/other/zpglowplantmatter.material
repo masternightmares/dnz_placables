@@ -1,0 +1,24 @@
+{
+  "materialId" : 12236,
+  "materialName" : "zpglowplantmatter",
+  "particleColor" : [13, 39, 7, 255],
+  "itemDrop" : "zpglowplantmatter",
+  "description" : "A block made of strange, glowing plant matter. It's also fireproof.",
+  "shortdescription" : "Biolumnescent Plant Matter",
+  "glitchDescription" : "Perplexed. This plant matter is both fireproof and bioluminescent.",
+  "floranDescription" : "Floran likess sstrange glowy plantss.",
+  "novakidDescription" : "Weird shinin' plants and leaves.",
+  "footstepSound" : "/sfx/blocks/footstep_tallgrass.ogg",
+  "health" : 5,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpglowplantmatter.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 3960
+  }
+}

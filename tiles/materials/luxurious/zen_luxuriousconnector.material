@@ -1,0 +1,20 @@
+{
+  "materialId": 12255,
+  "materialName": "zen_luxuriousconnector",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriousconnector",
+  "description": "A carved block used to connect beams.",
+  "shortdescription": "Luxurious Connector",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 4,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriousconnector.png",
+    "variants": 1,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "zLevel": 2850
+  }
+}

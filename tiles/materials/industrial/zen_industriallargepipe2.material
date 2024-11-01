@@ -1,0 +1,21 @@
+{
+  "materialId": 12266,
+  "materialName": "zen_industriallargepipe2",
+  "particleColor": [38, 38, 38, 255],
+  "itemDrop": "zen_industriallargepipe2",
+  "description": "A thick horizontal metal pipe.",
+  "shortdescription": "Industrial Horizontal Large Pipe",
+  "footstepSound": "/sfx/blocks/footstep_lightmetal.ogg",
+  "health": 10,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/pipetemplate.config",
+  "renderParameters": {
+    "texture": "zen_industriallargepipe2.png",
+    "variants": 6,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "multiColored": true,
+    "zLevel": 200
+  }
+}

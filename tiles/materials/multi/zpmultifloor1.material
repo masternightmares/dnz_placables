@@ -1,0 +1,25 @@
+{
+  "materialId" : 12211,
+  "materialName" : "zpmultifloor1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpmultifloor1",
+  "description" : "A metal flooring. Paint it for different (weird) variants!",
+  "shortdescription" : "Metal Floor Block (Variable)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Observant. This flooring can handle very heavy weight.",
+  "floranDescription" : "Shiny metal floor.",
+  "novakidDescription" : "Some strange lookin' floorin'.",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpmultifloor1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 75
+  }
+}

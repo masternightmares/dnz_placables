@@ -1,0 +1,21 @@
+{
+  "materialId" : 12260,
+  "materialName" : "zen_classicbricks",
+  "particleColor" : [147, 143, 137, 255],
+  "itemDrop" : "zen_classicbricks",
+  "description" : "Carved stone bricks.",
+  "shortdescription" : "Classic Bricks",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 16,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_classicbricks.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+	"multiColored": true,
+    "zLevel" : 3100
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialpanel",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialpanel.png",
+  "description": "A solid metal panel strengthened with bolts.",
+  "shortdescription": "Industrial Bolted Panel",
+  "materialId": 12271
+}

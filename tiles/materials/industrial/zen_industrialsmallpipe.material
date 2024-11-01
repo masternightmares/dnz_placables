@@ -1,0 +1,23 @@
+{
+  "materialId" : 12280,
+  "materialName" : "zen_industrialsmallpipe",
+  "collisionKind" : "none",
+  "particleColor" : [85, 85, 85, 255],
+  "itemDrop" : "zen_industrialsmallpipe",
+  "description" : "A thin metal pipe. What might be in it?",
+  "shortdescription" : "Industrial Cable",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 4,
+  "category": "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialsmallpipe.png",
+	  "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 550
+  }
+}

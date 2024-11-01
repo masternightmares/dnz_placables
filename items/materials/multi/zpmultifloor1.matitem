@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpmultifloor1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpmultifloor1.png",
+  "description" : "A metal flooring. Paint it for different (weird) variants!",
+  "shortdescription" : "Metal Floor Block (Variable)",
+
+  "materialId" : 12211
+}

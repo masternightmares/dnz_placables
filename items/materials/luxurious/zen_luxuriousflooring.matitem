@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousflooring",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousflooring.png",
+  "description" : "Delightful, polished flooring.",
+  "shortdescription" : "Luxurious Flooring",
+
+  "materialId" : 12258
+}

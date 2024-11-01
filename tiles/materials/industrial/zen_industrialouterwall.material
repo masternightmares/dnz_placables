@@ -1,0 +1,21 @@
+{
+  "materialId" : 12274,
+  "materialName" : "zen_industrialouterwall",
+  "particleColor" : [55, 55, 55, 255],
+  "itemDrop" : "zen_industrialouterwall",
+  "description" : "A thick alloy wall built for extreme conditions.",
+  "shortdescription" : "Industrial Outer Wall",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialouterwall.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 2620
+  }
+}

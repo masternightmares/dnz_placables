@@ -1,0 +1,24 @@
+{
+  "objectName" : "zpgratehalt",
+  "rarity" : "Rare",
+  "description" : "Metal grates, used for ventilation. These ones have a lighter gray color.",
+  "shortdescription" : "Metal Grates (5x1 Light)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpgratehalt.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpgratehalt.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

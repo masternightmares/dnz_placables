@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_classictrim",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_classictrim.png",
+  "description" : "A stone trim used to decorate buildings.",
+  "shortdescription" : "Classic Trim",
+
+  "materialId" : 12262
+}

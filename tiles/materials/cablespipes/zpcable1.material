@@ -1,0 +1,26 @@
+{
+  "materialId" : 12201,
+  "materialName" : "zpcable1",
+  "collisionKind" : "none",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpcable1",
+  "description" : "A thin metallic cable, because vanilla doesn't have single-cable blocks.",
+  "shortdescription" : "Thin Cable",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+  
+  "glitchDescription" : "Observant. A cable like this has many uses.",
+  "floranDescription" : "Floran could hang meat on metal wire.",
+  "novakidDescription" : "A borin' cable.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpcable1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 10
+  }
+}

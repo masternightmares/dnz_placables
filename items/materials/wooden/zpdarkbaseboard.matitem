@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkbaseboard",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkbaseboard.png",
+  "description" : "This dark baseboard completes the classic home look.",
+  "shortdescription" : "Dark Classic Baseboard",
+
+  "materialId" : 12219
+}

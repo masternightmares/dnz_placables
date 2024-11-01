@@ -1,0 +1,45 @@
+{
+  "objectName" : "zpinvisibledrain",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Rare",
+  "description" : "*quiet gurgling*",
+  "shortdescription" : "Invisible Drain",
+  "race" : "generic",
+
+  "category" : "wire",
+  "price" : 15,
+
+  "apexDescription" : "This is designed to drain water away.",
+  "avianDescription" : "This will drain away water, good for keeping my feathers dry!",
+  "floranDescription" : "Ssneaky drainsss take away water.",
+  "glitchDescription" : "Impressed. This drains away water with ease.",
+  "humanDescription" : "This'll drain that water away fast!",
+  "hylotlDescription" : "A useful, hidden device for draining water away. For those who like that.",
+  "novakidDescription" : "This'll get rid of that pesky water!",
+
+  "inventoryIcon" : "zpinvisibledrainicon.png",
+  "orientations" : [
+    {
+      "image" : "zpinvisibledrain.png:<color>.off",
+      "imagePosition" : [0, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/zpinvisibledrain/zpinvisibledrain.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/zpinvisibledrain/zpinvisibledrain.animation",
+
+  "animationParts" : {
+    "drain" : "zpinvisibledrain.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interval" : 5
+}

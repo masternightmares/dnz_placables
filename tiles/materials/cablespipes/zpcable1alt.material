@@ -1,0 +1,26 @@
+{
+  "materialId" : 12202,
+  "materialName" : "zpcable1alt",
+  "collisionKind" : "none",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpcable1alt",
+  "description" : "A thin metallic cable with rounded corners, because vanilla doesn't have single-cable blocks.",
+  "shortdescription" : "Thin Rounded Cable",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "glitchDescription" : "Observant. A cable like this has many uses.",
+  "floranDescription" : "Floran could hang meat on metal wire.",
+  "novakidDescription" : "A borin' cable.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpcable1alt.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 10
+  }
+}

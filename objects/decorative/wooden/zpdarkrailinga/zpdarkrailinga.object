@@ -1,0 +1,31 @@
+{
+  "objectName" : "zpdarkrailinga",
+  "rarity" : "Rare",
+  "description" : "A nice, carved wooden railing.",
+  "shortdescription" : "Dark Wooden Railing",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+  
+  "apexDescription" : "Excellent woodworking.",
+  "avianDescription" : "This railing looks wonderful.",
+  "floranDescription" : "Floran likess decorations.",
+  "glitchDescription" : "Observant. This door appears to have been made from a rare type of wood.",
+  "humanDescription" : "Maybe I shouldn't skate on this...",
+  "hylotlDescription" : "Whoever made this railing put much care into carving it.",
+  "novakidDescription" : "A fancy wooden railin'.",
+
+  "inventoryIcon" : "zpdarkrailingaicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpdarkrailinga.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

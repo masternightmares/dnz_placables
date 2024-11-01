@@ -1,0 +1,24 @@
+{
+  "objectName" : "zpgratev2",
+  "rarity" : "Rare",
+  "description" : "Vertical metal grates, used for ventilation. These ones fit in smaller spaces.",
+  "shortdescription" : "Metal Grates (1x4)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpgratev2.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpgratev2.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

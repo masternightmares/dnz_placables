@@ -1,0 +1,25 @@
+{
+  "materialId" : 12210,
+  "materialName" : "zpmultiwall3alt",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpmultiwall3alt",
+  "description" : "A metal wall made with 2 layers of metal. This one has a lighter gray color. Paint it for different variants!",
+  "shortdescription" : "Layered Wall Block (Variable Light)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Indifferent. A metal wall.",
+  "floranDescription" : "Boring metal wall.",
+  "novakidDescription" : "Some borin' metal wall.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpmultiwall3alt.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 60
+  }
+}

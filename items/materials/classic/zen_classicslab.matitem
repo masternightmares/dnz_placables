@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_classicslab",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_classicslab.png",
+  "description" : "Heavy slabs of polished stone.",
+  "shortdescription" : "Classic Slab",
+
+  "materialId" : 12261
+}

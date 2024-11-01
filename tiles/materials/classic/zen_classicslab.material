@@ -1,0 +1,21 @@
+{
+  "materialId" : 12261,
+  "materialName" : "zen_classicslab",
+  "particleColor" : [147, 143, 137, 255],
+  "itemDrop" : "zen_classicslab",
+  "description" : "Heavy slabs of polished stone.",
+  "shortdescription" : "Classic Slab",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 16,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_classicslab.png",
+    "variants" : 6,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+	"multiColored": true,
+    "zLevel" : 3230
+  }
+}

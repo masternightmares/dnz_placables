@@ -1,0 +1,35 @@
+{
+  "objectName" : "zpwallturbine1a",
+  "rarity" : "Rare",
+  "description" : "A turbine, encased in the wall and protected by glass.",
+  "shortdescription" : "Wall Turbine (5x3)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpwallturbine1aicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "zpwallturbine1a.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+	  "flipImages" : true,
+	  
+      "direction" : "left",
+      "anchors" : [ "background" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "zpwallturbine1a.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+      "direction" : "right",
+      "anchors" : [ "background" ]
+    }
+  ]
+}

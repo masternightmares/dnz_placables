@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "zpvent1c", "count" : 1 }
+  ],
+  "output" : { "item" : "zpvent1calt", "count" : 1 },
+  "duration" : 0.60,
+  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
+}

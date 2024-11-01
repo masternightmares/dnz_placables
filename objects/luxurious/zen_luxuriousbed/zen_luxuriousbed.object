@@ -1,0 +1,38 @@
+{
+  "objectName" : "zen_luxuriousbed",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "A very comfortable wooden bed with green covers.",
+  "shortdescription" : "Luxurious Wooden Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 200,
+  
+  "inventoryIcon" : "zen_luxuriousbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zen_luxuriousbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/luxurious/zen_luxuriousbed/zen_luxuriousbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

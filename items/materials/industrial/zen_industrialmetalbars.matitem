@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_industrialmetalbars",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_industrialmetalbars.png",
+  "description" : "Durable metal bars.",
+  "shortdescription" : "Industrial Metal Bars",
+
+  "materialId" : 12276
+}

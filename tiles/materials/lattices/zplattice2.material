@@ -1,0 +1,26 @@
+{
+  "materialId" : 12205,
+  "materialName" : "zplattice2",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zplattice2",
+  "description" : "A thin, bordered metal lattice.",
+  "shortdescription" : "Thin Metal Lattice",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 20,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+  
+  "glitchDescription" : "Indifferent. A common metal grate.",
+  "floranDescription" : "Metal fence lookss like prison bars.",
+  "novakidDescription" : "A metal grate.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zplattice2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 155
+  }
+}

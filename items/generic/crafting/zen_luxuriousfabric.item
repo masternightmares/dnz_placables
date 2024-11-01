@@ -1,0 +1,10 @@
+{
+  "itemName" : "zen_luxuriousfabric",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "zen_luxuriousfabric.png",
+  "description" : "A square of high-quality fabric used to create furniture and structures.",
+  "shortdescription" : "Luxurious Fabric",
+  "itemTags" : [ "reagent" ]
+}

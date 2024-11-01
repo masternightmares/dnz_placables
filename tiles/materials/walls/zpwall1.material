@@ -1,0 +1,21 @@
+{
+  "materialId" : 12215,
+  "materialName" : "zpwall1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpwall1",
+  "description" : "A metal wall with varying borders.",
+  "shortdescription" : "Bordered Wall Block",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpwall1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 100
+  }
+}

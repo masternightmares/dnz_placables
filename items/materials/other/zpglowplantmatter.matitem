@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpglowplantmatter",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpglowplantmatter.png",
+  "description" : "A block made of strange, glowing plant matter. It's also fireproof.",
+  "shortdescription" : "Bioluminescent Plant Matter",
+
+  "materialId" : 12236
+}

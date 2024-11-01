@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkornatewood",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkornatewood.png",
+  "description" : "Expertly treated ornate dark wood.",
+  "shortdescription" : "Dark Ornate Wood",
+
+  "materialId" : 12223
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodplatform.png",
+  "description" : "A dark, plain wood platform.",
+  "shortdescription" : "Dark Wood Platform",
+
+  "materialId" : 12231
+}

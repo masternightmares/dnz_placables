@@ -1,0 +1,24 @@
+{
+  "objectName" : "zen_pottedlilyvalley_small",
+  "colonyTags" : ["nature","pretty"],
+  "rarity" : "Uncommon",
+  "description" : "A small plant with white flowers in a cylindrical pot.",
+  "shortdescription" : "Potted Lily of the Valley",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 40,
+
+  "inventoryIcon" : "zen_pottedlilyvalley_smallicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zen_pottedlilyvalley_small.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

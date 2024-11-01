@@ -1,0 +1,11 @@
+{
+  "itemName" : "zppipe1alt",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zppipe1alt.png",
+  "description" : "A tough airduct. This one has a lighter gray color. Not much else to say.",
+  "shortdescription" : "Metal Airduct (Light)",
+
+  "materialId" : 12235
+}

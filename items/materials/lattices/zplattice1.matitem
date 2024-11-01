@@ -1,0 +1,11 @@
+{
+  "itemName" : "zplattice1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zplattice1.png",
+  "description" : "A bordered metal lattice.",
+  "shortdescription" : "Metal Lattice",
+
+  "materialId" : 12204
+}

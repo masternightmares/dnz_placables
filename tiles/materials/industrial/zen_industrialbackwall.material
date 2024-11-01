@@ -1,0 +1,21 @@
+{
+  "materialId" : 12273,
+  "materialName" : "zen_industrialbackwall",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zen_industrialbackwall",
+  "description" : "A strong, recessed metal wall.",
+  "shortdescription" : "Industrial Back Wall",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialbackwall.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 100
+  }
+}

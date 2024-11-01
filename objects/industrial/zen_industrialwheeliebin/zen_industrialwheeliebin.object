@@ -1,0 +1,35 @@
+{
+  "objectName" : "zen_industrialwheeliebin",
+  "colonyTags" : ["misc"],
+  "rarity" : "Uncommon",
+  "description" : "A grey wheelie bin.",
+  "shortdescription" : "Industrial Wheelie Bin",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 100,
+
+  "inventoryIcon" : "zen_industrialwheeliebinicon.png",
+  "orientations" : [
+    {
+      "image" : "zen_industrialwheeliebin.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "zen_industrialwheeliebin.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

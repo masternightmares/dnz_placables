@@ -1,0 +1,20 @@
+{
+  "materialId" : 12219,
+  "materialName" : "zpdarkbaseboard",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkbaseboard",
+  "description" : "This dark baseboard completes the classic home look.",
+  "shortdescription" : "Dark Classic Baseboard",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkbaseboard.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 3140
+  }
+}

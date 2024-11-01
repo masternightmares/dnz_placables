@@ -1,0 +1,20 @@
+{
+  "materialId" : 12226,
+  "materialName" : "zpdarkfullwood2",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkfullwood2",
+  "description" : "Rough and unrefined, this dark wood looks freshly chopped.",
+  "shortdescription" : "Dark Unrefined Wood",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkfullwood2.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2810
+  }
+}

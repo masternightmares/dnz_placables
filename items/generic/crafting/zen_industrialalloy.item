@@ -1,0 +1,10 @@
+{
+  "itemName" : "zen_industrialalloy",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "zen_industrialalloy.png",
+  "description" : "An alloy of iron and tungsten used to create furniture and structures.",
+  "shortdescription" : "Industrial Alloy",
+  "itemTags" : [ "reagent" ]
+}

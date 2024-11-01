@@ -1,0 +1,21 @@
+{
+  "materialId" : 12229,
+  "materialName" : "zpdarkwoodenwindow2",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkwoodenwindow2",
+  "description" : "Dark wooden slats that don't let much light through.",
+  "shortdescription" : "Dark Wooden Blinds",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodenwindow2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 490
+  }
+}

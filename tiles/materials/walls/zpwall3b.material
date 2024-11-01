@@ -1,0 +1,21 @@
+{
+  "materialId" : 12218,
+  "materialName" : "zpwall3b",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpwall3b",
+  "description" : "A metal radiator, used for cooling large structures or machines. This one has no plates on the corners.",
+  "shortdescription" : "Radiator Block (Alt)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpwall3b.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 20
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "materialId" : 12230,
+  "materialName" : "zpdarkwoodenplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "zpdarkwoodenplatform",
+  "shortdescription" : "Dark Ornate Platform",
+  "description" : "Nicely finished dark wooden platforms.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodenplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 0
+  }
+}

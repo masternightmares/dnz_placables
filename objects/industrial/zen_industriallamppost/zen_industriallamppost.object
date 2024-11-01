@@ -1,0 +1,63 @@
+{
+  "objectName" : "zen_industriallamppost",
+  "colonyTags" : ["light"],
+  "rarity" : "Uncommon",
+  "description" : "A basic metal street lamp.",
+  "shortdescription" : "Industrial Street Lamp",
+  "race" : "generic",
+
+  "category" : "light",
+  "price" : 140,
+  "lightColor" : [174, 185, 189],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.25,
+
+  "inventoryIcon" : "zen_industriallampposticon.png",
+  "orientations" : [
+    {
+      "image" : "zen_industriallamppost.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+
+      "direction" : "left",
+
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "zen_industriallamppost.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "zen_industriallamppost.png",
+    "fg" : "zen_industriallamppostlit.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  "interactive" : false,
+  "inputNodes" : [[0, 0]]
+}

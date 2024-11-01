@@ -1,0 +1,19 @@
+{
+  "materialId" : 12231,
+  "materialName" : "zpdarkwoodplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "zpdarkwoodplatform",
+  "shortdescription" : "Dark Wood Platform",
+  "description" : "A dark, plain wood platform.",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkwoodplatform.png",
+    "variants" : 3,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 0
+  }
+}

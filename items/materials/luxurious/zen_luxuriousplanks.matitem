@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousplanks",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousplanks.png",
+  "description" : "These planks somehow have no grain.",
+  "shortdescription" : "Luxurious Planks",
+
+  "materialId" : 12259
+}

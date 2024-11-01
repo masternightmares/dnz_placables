@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "fabric",
+      "count": 3
+    }, {
+      "item": "livingroot",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_luxuriousfabric",
+    "count": 50
+  },
+  "groups": ["craftingwheel", "ingredients"]
+}

@@ -1,0 +1,21 @@
+{
+  "materialId" : 12214,
+  "materialName" : "zpscaffold1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpscaffold1",
+  "description" : "A metal window with perfectly clear glass.",
+  "shortdescription" : "Metal Window Block",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpscaffold1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 155
+  }
+}

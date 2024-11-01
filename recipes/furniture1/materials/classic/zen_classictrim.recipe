@@ -1,0 +1,12 @@
+{
+  "input": [{
+      "item": "zen_classicstone",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_classictrim",
+    "count": 50
+  },
+  "groups": ["craftingfurniture", "materials", "all"]
+}

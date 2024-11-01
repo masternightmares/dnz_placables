@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousfence",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousfence.png",
+  "description" : "A sturdy, polished wooden fence.",
+  "shortdescription" : "Luxurious Fence",
+
+  "materialId" : 12257
+}

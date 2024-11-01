@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodenplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodenplatform.png",
+  "description" : "Nicely finished dark wooden platforms.",
+  "shortdescription" : "Dark Ornate Platform",
+
+  "materialId" : 12230
+}

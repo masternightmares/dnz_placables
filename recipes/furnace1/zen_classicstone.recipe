@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "cobblestonematerial",
+      "count": 5
+    }, {
+      "item": "ironore",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_classicstone",
+    "count": 20
+  },
+  "groups": ["craftingfurnace", "ingredients", "all"]
+}

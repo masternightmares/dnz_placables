@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodenwindow1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodenwindow1.png",
+  "description" : "A window with dark wooden panes.",
+  "shortdescription" : "Dark Wooden Window",
+
+  "materialId" : 12228
+}

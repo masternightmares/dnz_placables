@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_industrialsmallpipe",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_industrialsmallpipe.png",
+  "description" : "A thin metal pipe. What might be in it?",
+  "shortdescription" : "Small Industrial Pipe",
+
+  "materialId" : 12280
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpwall1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpwall1.png",
+  "description" : "A metal wall with varying borders.",
+  "shortdescription" : "Bordered Wall Block",
+
+  "materialId" : 12215
+}

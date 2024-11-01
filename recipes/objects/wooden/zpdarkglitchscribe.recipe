@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "zpdarkdarkwood", "count" : 30 },
+	{ "item" : "fabric", "count" : 4 }
+  ],
+  "output" : { "item" : "zpdarkglitchscribe", "count" : 1 },
+  "duration" : 0.4,
+  "groups"  : [ "craftingfurniture", "storage", "all" ]
+}

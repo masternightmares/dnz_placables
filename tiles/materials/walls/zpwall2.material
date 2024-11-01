@@ -1,0 +1,21 @@
+{
+  "materialId" : 12216,
+  "materialName" : "zpwall2",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpwall2",
+  "description" : "A flat, bolted metal wall.",
+  "shortdescription" : "Bolted Wall Block",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpwall2.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 100
+  }
+}

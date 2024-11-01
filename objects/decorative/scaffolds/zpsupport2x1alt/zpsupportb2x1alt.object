@@ -1,0 +1,25 @@
+{
+  "objectName" : "zpsupportb2x1alt",
+  "rarity" : "Rare",
+  "description" : "A piece of stackable scaffolding. Can hold more weight than its appearance suggests. This one has a lighter gray color.",
+  "shortdescription" : "Metal Scaffolding Piece (2x1 Bottom Light)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpsupportb2x1alticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpsupportb2x1alt.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

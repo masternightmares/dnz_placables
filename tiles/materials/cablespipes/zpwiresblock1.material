@@ -1,0 +1,25 @@
+{
+  "materialId" : 12203,
+  "materialName" : "zpwiresblock1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpwiresblock1",
+  "description" : "Bundled, thick wires.",
+  "shortdescription" : "Large Wire Block",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Impressed. These wires can conduct electricity efficiently.",
+  "floranDescription" : "Floran not see wiress like thiss often.",
+  "novakidDescription" : "A large bundle o' wires.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpwiresblock1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 155
+  }
+}

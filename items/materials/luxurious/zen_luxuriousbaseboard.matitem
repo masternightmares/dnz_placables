@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousbaseboard",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousbaseboard.png",
+  "description" : "Beautiful carved baseboard.",
+  "shortdescription" : "Luxurious Baseboard",
+
+  "materialId" : 12253
+}

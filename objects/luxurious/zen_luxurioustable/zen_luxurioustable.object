@@ -1,0 +1,39 @@
+{
+  "objectName" : "zen_luxurioustable",
+  "colonyTags" : ["commerce"],
+  "rarity" : "Uncommon",
+  "description" : "A polished wooden table with a green tablecloth.",
+  "shortdescription" : "Luxurious Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "inventoryIcon" : "zen_luxurioustableicon.png",
+  "orientations" : [
+    {
+	  "image" : "zen_luxurioustable.png:<color>",
+      "direction" : "left",
+	  "flipImages" : true,
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    },
+	{
+	  "image" : "zen_luxurioustable.png:<color>",
+      "direction" : "right",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

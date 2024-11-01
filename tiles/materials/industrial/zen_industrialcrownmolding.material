@@ -1,0 +1,21 @@
+{
+  "materialId" : 12272,
+  "materialName" : "zen_industrialcrownmolding",
+  "particleColor" : [85, 85, 85, 255],
+  "itemDrop" : "zen_industrialcrownmolding", 
+  "description" : "Solid crown molding.",
+  "shortdescription" : "Industrial Crown Molding",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialcrownmolding.png",
+    "variants" : 8,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 70
+  }
+}

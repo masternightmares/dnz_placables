@@ -1,0 +1,22 @@
+{
+  "materialId" : 12276,
+  "materialName" : "zen_industrialmetalbars",
+  "particleColor" : [85, 85, 85, 255],
+  "itemDrop" : "zen_industrialmetalbars",
+  "description" : "Durable metal bars.",
+  "shortdescription" : "Industrial Metal Bars",
+  "footstepSound" : "/sfx/blocks/footstep_girder.ogg",
+  "health" : 10,
+  "category": "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialmetalbars.png",
+	  "variants" : 5,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 550
+  }
+}

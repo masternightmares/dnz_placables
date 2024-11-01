@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkfullwood2",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkfullwood2.png",
+  "description" : "Rough and unrefined, this dark wood looks freshly chopped.",
+  "shortdescription" : "Dark Unrefined Wood",
+
+  "materialId" : 12226
+}

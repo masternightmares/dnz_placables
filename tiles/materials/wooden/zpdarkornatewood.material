@@ -1,0 +1,20 @@
+{
+  "materialId" : 12223,
+  "materialName" : "zpdarkornatewood",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkornatewood",
+  "description" : "Expertly treated ornate dark wood.",
+  "shortdescription" : "Dark Ornate Wood",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkornatewood.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2840
+  }
+}

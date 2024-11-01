@@ -1,0 +1,25 @@
+{
+  "materialId" : 12207,
+  "materialName" : "zpmultiwall1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpmultiwall1",
+  "description" : "A metal tank, intended for storing liquid. Paint it for different variants!",
+  "shortdescription" : "Metal Tank (Variable)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Observant. A high-capacity, corrosion-proof tank.",
+  "floranDescription" : "Floran wantss to stab round box to ssee what iss inside!",
+  "novakidDescription" : "A shiny tank, not sure what's inside.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpmultiwall1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 60
+  }
+}

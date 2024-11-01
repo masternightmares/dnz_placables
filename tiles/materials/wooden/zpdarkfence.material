@@ -1,0 +1,21 @@
+{
+  "materialId" : 12222,
+  "materialName" : "zpdarkfence",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkfence",
+  "description" : "A sturdy, polished dark wooden fence.",
+  "shortdescription" : "Dark Wooden Fence",
+  "footstepSound" : "/sfx/blocks/footstep_lightwood.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkfence.png",
+    "variants" : 5,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 520
+  }
+}

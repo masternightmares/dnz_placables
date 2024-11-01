@@ -1,0 +1,21 @@
+{
+  "materialId": 12254,
+  "materialName": "zen_luxuriousbeam",
+  "frames": "zen_luxuriousbeam.png",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriousbeam",
+  "description": "A beautiful wooden beam.",
+  "shortdescription": "Luxurious Beam",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 8,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/girdertemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriousbeam.png",
+    "variants": 5,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "zLevel": 2840
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "materialId": 12267,
+  "materialName": "zen_industrialflooring",
+  "particleColor": [55, 55, 55, 255],
+  "itemDrop": "zen_industrialflooring",
+  "description": "Solid metal flooring.",
+  "shortdescription": "Industrial Flooring",
+  "footstepSound": "/sfx/blocks/footstep_metallic.ogg",
+  "health": 10,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_industrialflooring.png",
+    "variants": 7,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "multiColored": true,
+    "zLevel": 2800
+  }
+}

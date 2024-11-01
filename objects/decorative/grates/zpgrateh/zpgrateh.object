@@ -1,0 +1,24 @@
+{
+  "objectName" : "zpgrateh",
+  "rarity" : "Rare",
+  "description" : "Metal grates, used for ventilation.",
+  "shortdescription" : "Metal Grates (5x1)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpgrateh.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpgrateh.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

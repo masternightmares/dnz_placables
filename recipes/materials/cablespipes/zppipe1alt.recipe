@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 }
+  ],
+  "output" : { "item" : "zppipe1alt", "count" : 50 },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

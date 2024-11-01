@@ -1,0 +1,20 @@
+{
+  "materialId" : 12221,
+  "materialName" : "zpdarkfullwood1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkfullwood1",
+  "description" : "Carefully treated dark wood that maintains a freshly chopped appearance.",
+  "shortdescription" : "Dark Treated Wood",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkfullwood1.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 2840
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zppipe1",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zppipe1.png",
+  "description" : "A tough airduct. Not much else to say.",
+  "shortdescription" : "Metal Airduct",
+
+  "materialId" : 12234
+}

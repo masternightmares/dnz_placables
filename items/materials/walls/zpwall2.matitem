@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpwall2",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpwall2.png",
+  "description" : "A flat, bolted metal wall.",
+  "shortdescription" : "Bolted Wall Block",
+
+  "materialId" : 12216
+}

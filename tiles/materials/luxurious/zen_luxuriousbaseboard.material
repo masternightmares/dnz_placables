@@ -1,0 +1,21 @@
+{
+  "materialId": 12253,
+  "materialName": "zen_luxuriousbaseboard",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriousbaseboard",
+  "description": "Exquisitely carved baseboard.",
+  "shortdescription": "Luxurious Baseboard",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 8,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriousbaseboard.png",
+    "variants": 4,
+    "lightTransparent": false,
+    "occludesBelow": true,
+	"multiColored": true,
+    "zLevel": 3140
+  }
+}

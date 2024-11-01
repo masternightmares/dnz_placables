@@ -1,0 +1,10 @@
+{
+  "itemName" : "zen_luxuriousboard",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "zen_luxuriousboard.png",
+  "description" : "A polished wooden board used to create furniture and structures.",
+  "shortdescription" : "Luxurious Board",
+  "itemTags" : [ "reagent" ]
+}

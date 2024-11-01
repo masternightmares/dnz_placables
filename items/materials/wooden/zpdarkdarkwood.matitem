@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkdarkwood",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkdarkwood.png",
+  "description" : "Dark wood that has been prepared for building.",
+  "shortdescription" : "Dark Timber",
+
+  "materialId" : 12220
+}

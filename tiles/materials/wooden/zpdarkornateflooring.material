@@ -1,0 +1,21 @@
+{
+  "materialId" : 12225,
+  "materialName" : "zpdarkornateflooring",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpdarkornateflooring",
+  "description" : "Delightful dark ornate flooring.",
+  "shortdescription" : "Dark Ornate Flooring",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zpdarkornateflooring.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+	"multiColored" : true,
+    "zLevel" : 3000
+  }
+}

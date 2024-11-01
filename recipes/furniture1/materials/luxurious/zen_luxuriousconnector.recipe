@@ -1,0 +1,12 @@
+{
+  "input": [{
+      "item": "zen_luxuriousboard",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_luxuriousconnector",
+    "count": 50
+  },
+  "groups": ["craftingfurniture", "materials", "all"]
+}

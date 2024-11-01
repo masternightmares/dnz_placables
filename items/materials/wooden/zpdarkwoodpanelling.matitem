@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpdarkwoodpanelling",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpdarkwoodpanelling.png",
+  "description" : "This wood panelling looks somewhat fashionable.",
+  "shortdescription" : "Dark Wood Panelling",
+
+  "materialId" : 12227
+}

@@ -1,0 +1,20 @@
+{
+  "materialId": 12258,
+  "materialName": "zen_luxuriousflooring",
+  "particleColor": [97, 72, 45, 255],
+  "itemDrop": "zen_luxuriousflooring",
+  "description": "Delightful, polished flooring.",
+  "shortdescription": "Luxurious Flooring",
+  "footstepSound": "/sfx/blocks/footstep_wood.ogg",
+  "health": 8,
+  "category": "materials",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "zen_luxuriousflooring.png",
+    "variants": 5,
+    "lightTransparent": false,
+    "occludesBelow": true,
+    "zLevel": 3000
+  }
+}

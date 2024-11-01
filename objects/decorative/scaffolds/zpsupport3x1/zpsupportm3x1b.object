@@ -1,0 +1,25 @@
+{
+  "objectName" : "zpsupportm3x1b",
+  "rarity" : "Rare",
+  "description" : "A piece of stackable scaffolding. Can hold more weight than its appearance suggests.",
+  "shortdescription" : "Metal Scaffolding Piece (3x1 Middle 2)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpsupportm3x1bicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zpsupportm3x1b.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaces" : [ [0,0], [1,0], [2,0] ],
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

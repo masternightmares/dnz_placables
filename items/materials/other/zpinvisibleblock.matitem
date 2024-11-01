@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpinvisibleblock",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpinvisibleblock.png",
+  "description" : "A strange block that allows all light to pass through, making it invisible to the eye.",
+  "shortdescription" : "Invisible Matter",
+
+  "materialId" : 12237
+}

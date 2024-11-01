@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "tungstenbar",
+      "count": 2
+    }, {
+      "item": "ironbar",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_industrialalloy",
+    "count": 20
+  },
+  "groups": ["craftingfurnace", "ingredients", "all"]
+}

@@ -1,0 +1,21 @@
+{
+  "materialId" : 12278,
+  "materialName" : "zen_industrialplasmacoil2",
+  "particleColor" : [60, 60, 60, 255],
+  "itemDrop" : "zen_industrialplasmacoil2",
+  "description" : "A brutally hot plasma coil set inside a light grey metal frame.",
+  "shortdescription" : "Industrial Plasma Coil",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialplasmacoil2.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 600
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_luxuriousconnector",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_luxuriousconnector.png",
+  "description" : "A carved block used to connect beams.",
+  "shortdescription" : "Luxurious Connector",
+
+  "materialId" : 12255
+}

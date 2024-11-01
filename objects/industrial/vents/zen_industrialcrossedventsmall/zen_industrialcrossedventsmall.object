@@ -1,0 +1,24 @@
+{
+  "objectName" : "zen_industrialcrossedventsmall",
+  "rarity" : "Uncommon",
+  "description" : "A metal vent with crossed bars.",
+  "shortdescription" : "Industrial Crossed Vent (S)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 100,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "zen_industrialcrossedventsmall.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

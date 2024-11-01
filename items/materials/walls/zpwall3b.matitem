@@ -1,0 +1,11 @@
+{
+  "itemName" : "zpwall3b",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "zpwall3b.png",
+  "description" : "A metal radiator, used for cooling large structures or machines. This one has no plate on the corners.",
+  "shortdescription" : "Radiator Block (Alt)",
+
+  "materialId" : 12218
+}

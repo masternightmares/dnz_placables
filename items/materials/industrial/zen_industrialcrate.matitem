@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialcrate",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialcrateicon.png",
+  "description": "A heavy, solid metal crate.",
+  "shortdescription": "Industrial Crate Block",
+  "materialId": 12270
+}

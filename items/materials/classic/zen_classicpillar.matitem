@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_classicpillar",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_classicpillar.png",
+  "description" : "A finely carved stone pillar.",
+  "shortdescription" : "Classic Pillar",
+
+  "materialId" : 12263
+}

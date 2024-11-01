@@ -1,0 +1,25 @@
+{
+  "materialId" : 12232,
+  "materialName" : "zpmulticontainer1",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zpmulticontainer1",
+  "description" : "A heavy, solid metal crate. Paint it for different variants!",
+  "shortdescription" : "Metal Crate (Variable)",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "glitchDescription" : "Observant. This metal crate is resistant to damage.",
+  "floranDescription" : "Floran wonder what iss inside metal box?.",
+  "novakidDescription" : "This crate looks pretty darn solid.",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpmulticontainer1.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 500
+  }
+}

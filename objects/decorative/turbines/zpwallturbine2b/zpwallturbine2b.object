@@ -1,0 +1,35 @@
+{
+  "objectName" : "zpwallturbine2b",
+  "rarity" : "Rare",
+  "description" : "A turbine, encased in the wall and protected by glass. This one is asymmetrical and fits in smaller spaces.",
+  "shortdescription" : "Wall Turbine (4x3 Alt)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 200,
+
+  "inventoryIcon" : "zpwallturbine2bicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "zpwallturbine2b.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+	  "flipImages" : true,
+	  
+      "direction" : "left",
+      "anchors" : [ "background" ]
+    },
+	{
+      "imageLayers" : [ { "image" : "zpwallturbine2b.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+      "spaceScan" : 0.1,
+	  
+      "direction" : "right",
+      "anchors" : [ "background" ]
+    }
+  ]
+}

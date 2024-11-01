@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industriallargevent",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industriallargeventicon.png",
+  "description": "A massive, sturdy air vent.",
+  "shortdescription": "Industrial Large Vent",
+  "materialId": 12268
+}

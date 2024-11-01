@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialflooring",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialflooringicon.png",
+  "description": "Solid metal flooring.",
+  "shortdescription": "Industrial Flooring",
+  "materialId": 12267
+}
