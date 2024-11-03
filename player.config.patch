@@ -1,0 +1,9 @@
+[
+//Crafting Materials
+
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"dnz_workbench"}},
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"zen_luxuriousboard"}},
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"zen_luxuriousfabric"}},
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"zen_industrialalloy"}},
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"zen_classicstone"}}
+]

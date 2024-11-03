@@ -1,0 +1,52 @@
+{
+  "objectName" : "dnz_workbench",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Rare",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/dnz_workbench.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "  D.N.Z Crafting Table",
+        "subtitle" : " precision crafting!",
+        "icon" : {
+          "file" : "/interface/crafting/dnz_gui_icon.png"
+        }
+      }
+    },
+    "filter" : [ "dnz_workbench" ]
+  },
+  "printable" : false,
+  "description" : "One could build some very nice placeables.",
+  "shortdescription" : "^orange;D.N.Z Crafting Table^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 30,
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+	  "imageLayers" : [ { "image" : "dnz_workbench.png:<color>", "fullbright" : true }, { "image" : "fullbright.png:<color>"} ],
+      "direction" : "left",
+	  "flipImages" : true,
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+	{
+	 "imageLayers" : [ { "image" : "dnz_workbench.png:<color>", "fullbright" : true }, { "image" : "fullbright.png:<color>"} ],
+      "direction" : "right",
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

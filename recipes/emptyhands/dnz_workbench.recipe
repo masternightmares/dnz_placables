@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "dnz_workbench",
+    "count" : 1
+  },
+  "groups" : [ "plain","all" ]
+}
