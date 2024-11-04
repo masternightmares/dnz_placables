@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "plantmatter", "count" : 100 },
-	{ "item" : "glowfibre", "count" : 1 }
-  ],
-  "output" : { "item" : "zpglowplantmatter", "count" : 100 },
-  "duration" : 0.1,
-  "groups"  : [ "craftingfurniture2", "materials", "all" ]
-}

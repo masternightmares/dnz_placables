@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "zpdarkfullwood1", "count" : 1 }
-  ],
-  "output" : { "item" : "zpdarkornateflooring", "count" : 50 },
-  "duration" : 0.1,
-  "groups"  : [ "craftingfurniture", "materials", "all" ]
-}

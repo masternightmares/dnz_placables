@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "zen_industrialalloy", "count" : 1 }
-  ],
-  "output" : { "item" : "zen_industrialouterwall", "count" : 50 },
-  "groups"  : [ "craftingfurniture", "materials", "all" ]
-}

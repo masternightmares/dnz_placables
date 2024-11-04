@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 6 },
-	{ "item" : "wire", "count" : 5 }
-  ],
-  "output" : { "item" : "zpwallturbine2b", "count" : 1 },
-  "duration" : 0.30,
-  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
-}

@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "zen_classicstone",
+      "count": 1
+    }, {
+      "item": "plantfibre",
+      "count": 2
+    }
+  ],
+  "output": {
+    "item": "zen_pottedlilyvalley_small",
+    "count": 1
+  },
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

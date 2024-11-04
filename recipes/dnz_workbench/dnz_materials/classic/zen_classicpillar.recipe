@@ -1,0 +1,12 @@
+{
+  "input": [{
+      "item": "zen_classicstone",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_classicpillar",
+    "count": 50
+  },
+  "groups": ["dnz_workbench", "dnz_materials"]  
+}

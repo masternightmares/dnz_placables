@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "zen_luxuriousboard",
+      "count": 1
+    }, {
+      "item": "zen_luxuriousfabric",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_luxuriouschair",
+    "count": 1
+  },
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

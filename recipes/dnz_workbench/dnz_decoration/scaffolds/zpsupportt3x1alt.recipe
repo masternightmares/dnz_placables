@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 2 }
+  ],
+  "output" : { "item" : "zpsupportt3x1alt", "count" : 3 },
+  "duration" : 0.30,
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

@@ -1,0 +1,12 @@
+{
+  "input": [{
+      "item": "zen_industrialalloy",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_industrialroundventmedium",
+    "count": 1
+  },
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 6 },
+	{ "item" : "wire", "count" : 5 }
+  ],
+  "output" : { "item" : "zpwallturbine2b", "count" : 1 },
+  "duration" : 0.30,
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

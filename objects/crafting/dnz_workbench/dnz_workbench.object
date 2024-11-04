@@ -5,6 +5,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/dnz_workbench.config",
+	"requiresBlueprint": false,
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "  D.N.Z Crafting Table",

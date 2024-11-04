@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "zpgrateh2", "count" : 1 }
-  ],
-  "output" : { "item" : "zpgrateh2alt", "count" : 1 },
-  "duration" : 0.20,
-  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
-}

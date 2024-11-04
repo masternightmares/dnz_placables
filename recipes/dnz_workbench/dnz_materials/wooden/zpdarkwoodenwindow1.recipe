@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "zpdarkdarkwood", "count" : 1 },
+	{ "item" : "glass", "count" : 1 }
+  ],
+  "output" : { "item" : "zpdarkwoodenwindow1", "count" : 50 },
+  "duration" : 0.1,
+  "groups": ["dnz_workbench", "dnz_materials"]
+}

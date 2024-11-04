@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 1 }
+  ],
+  "output" : { "item" : "zplattice1", "count" : 50 },
+  "duration" : 0.1,
+  "groups": ["dnz_workbench", "dnz_materials"]    
+}

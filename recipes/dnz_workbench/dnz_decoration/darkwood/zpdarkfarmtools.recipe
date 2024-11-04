@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "zpdarkdarkwood", "count" : 10 },
+	{ "item" : "ironbar", "count" : 2 },
+	{ "item" : "plantfibre", "count" : 16 }
+  ],
+  "output" : { "item" : "zpdarkfarmtools", "count" : 1 },
+  "duration" : 0.3,
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 1 },
+	{ "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "zptechblock1", "count" : 50 },
+  "duration" : 0.1,
+  "groups": ["dnz_workbench", "dnz_materials"]  
+}

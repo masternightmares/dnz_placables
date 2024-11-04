@@ -1,0 +1,15 @@
+{
+  "input": [{
+      "item": "zen_industrialalloy",
+      "count": 2
+    }, {
+      "item": "cryonicextract",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zen_industrialfridge",
+    "count": 1
+  },
+  "groups": ["dnz_workbench", "dnz_storage"]
+}

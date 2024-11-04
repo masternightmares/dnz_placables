@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 2 }
-  ],
-  "output" : { "item" : "zpgratev", "count" : 1 },
-  "duration" : 0.20,
-  "groups"  : [ "craftingfurniture2", "decoration", "all" ]
-}
