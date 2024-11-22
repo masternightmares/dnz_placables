@@ -5,3 +5,4 @@
   "output" : { "item" : "zpmultifloor1alt", "count" : 50 },
   "duration" : 0.1,
   "groups": ["dnz_workbench", "dnz_materials"]
+}

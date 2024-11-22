@@ -1,0 +1,11 @@
+{
+  "itemName" : "zen_industrialverticallattice",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "zen_industrialverticallattice.png",
+  "description" : "A thin lattice that's stronger than it looks.",
+  "shortdescription" : "Industrial Vertical Lattice",
+
+  "materialId" : 12242
+}

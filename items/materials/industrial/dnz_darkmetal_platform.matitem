@@ -1,0 +1,11 @@
+{
+  "itemName" : "dnz_darkmetal_platform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Rare",
+  "inventoryIcon" : "dnz_darkmetal_platform.png",
+  "description" : "A dark metal platform.",
+  "shortdescription" : "Dark Metal Platform",
+
+  "materialId" : 12238
+}

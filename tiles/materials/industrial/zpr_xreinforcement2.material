@@ -1,0 +1,22 @@
+{
+  "materialId" : 12241,
+  "materialName" : "zpr_xreinforcement2",
+  "particleColor" : [55, 55, 55, 255],
+  "itemDrop" : "zpr_xreinforcement2",
+  "description" : "A sturdy and reinforced crossed lattice over a background wall.",
+  "shortdescription" : "X-Shaped Lattice (R)",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 6,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpr_xreinforcement2.png",
+    "variants" : 8,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

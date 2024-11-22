@@ -1,0 +1,26 @@
+{
+  "materialId" : 12243,
+  "materialName" : "zdp_ind_bgwallp",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zdp_ind_bgwallp",
+  "description" : "A strong, recessed metal wall lined with pipes.",
+  "shortdescription" : "^#647387;[IND]^reset; Background Pipe Wall",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  
+  "floranDescription" : "What'sss in thessse sshiny pipes?",
+  "glitchDescription" : "Confused. Scans show these pipes are... empty?",
+  "novakidDescription" : "What's'n these pipes?.",
+  "nekiDescription" : "I don't fits in this shiny wall but that won't stop me!",
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zdp_ind_bgwallp.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 2615
+  }
+}

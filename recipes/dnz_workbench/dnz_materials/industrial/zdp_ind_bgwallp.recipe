@@ -1,0 +1,12 @@
+{
+  "input": [{
+      "item": "zen_industrialalloy",
+      "count": 1
+    }
+  ],
+  "output": {
+    "item": "zdp_ind_bgwallp",
+    "count": 50
+  },
+  "groups": ["dnz_workbench", "dnz_materials"]  
+}

@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "zpsupportt3x1alt", "count" : 3 },
   "duration" : 0.30,
-  "groups": ["dnz_workbench", "dnz_decoration"]
+  "groups": ["dnz_workbench", "dnz_scaffolds"] 
 }

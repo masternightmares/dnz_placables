@@ -1,0 +1,36 @@
+{
+  "objectName": "zen_industrialtable2",
+  "colonyTags": ["commerce"],
+  "rarity": "Uncommon",
+  "description": "A lightweight alloy table with foldable legs... and clutter.",
+  "shortdescription": "cluttered Industrial Table",
+  "race": "generic",
+  "category": "furniture",
+  "price": 100,
+
+  "inventoryIcon": "zen_industrialtable2icon.png",
+  "orientations": [{
+      "image": "zen_industrialtable2.png:<color>",
+      "imagePosition": [-16, 0],
+      "direction": "left",
+      "flipImages": true,
+      "frames": 1,
+      "animationCycle": 0.5,
+
+      "spaceScan": 0.1,
+      "anchors": ["bottom"],
+      "collision": "platform"
+
+    }, {
+      "image": "zen_industrialtable2.png:<color>",
+      "imagePosition": [-16, 0],
+      "direction": "right",
+      "frames": 1,
+      "animationCycle": 0.5,
+
+      "spaceScan": 0.1,
+      "anchors": ["bottom"],
+      "collision": "platform"
+    }
+  ]
+}

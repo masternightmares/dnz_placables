@@ -1,0 +1,56 @@
+{
+  "objectName" : "dnz_lamppost_modular",
+  "colonyTags" : ["light"],
+  "rarity" : "Uncommon",
+  "description" : "A basic metal street lamp.",
+  "shortdescription" : "Industrial Street Lamp",
+  "race" : "generic",
+
+  "category" : "light",
+  "price" : 140,
+  "lightColor" : [250, 250, 250],
+  "pointLight" : true,
+  "pointBeam" : 1,
+  "beamAmbience" : 0.02,
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "dnz_lamppost_left.png:<color>.<frame>", "fullbright" : true }, { "image" : "fullbright_left.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+	  "flipImages" : true,
+      "direction" : "left",
+      "spaceScan" : 0.1,
+      "anchors" : [  ],
+	  "animationParts" : {
+        "bg" : "dnz_lamppost_left.png",
+        "fg" : "fullbright_left.png"
+	  }
+    },
+    {
+      "imageLayers" : [ { "image" : "dnz_lamppost_right.png:<color>.<frame>", "fullbright" : true }, { "image" : "fullbright_right.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [  ],
+	  "animationParts" : {
+        "bg" : "dnz_lamppost_right.png",
+        "fg" : "fullbright_right.png"
+	  }
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [1, 7] ]
+}

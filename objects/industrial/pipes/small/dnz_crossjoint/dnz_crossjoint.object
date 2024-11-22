@@ -1,0 +1,24 @@
+{
+  "objectName" : "dnz_crossjoint",
+  "rarity" : "Uncommon",
+  "description" : "A small lenth pipe of metal.",
+  "shortdescription" : "Small crossjoint Pipe (+)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 125,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "dnz_crossjoint.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

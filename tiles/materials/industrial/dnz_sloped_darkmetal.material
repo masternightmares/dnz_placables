@@ -1,0 +1,22 @@
+{
+  "materialId" : 12245,
+  "materialName" : "dnz_sloped_darkmetal",
+  "particleColor" : [124, 145, 86, 255],
+  "itemDrop" : "dnz_sloped_darkmetal",
+
+  "description" : "A dark sloped metal pannel.",
+  "shortdescription" : "Dark Metal Panel",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 10,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "dnz_sloped_darkmetal.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : true,
+    "multiColored" : false,
+    "zLevel" : 5000
+  }
+}

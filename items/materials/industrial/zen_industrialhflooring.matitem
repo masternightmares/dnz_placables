@@ -1,0 +1,10 @@
+{
+  "itemName": "zen_industrialhflooring",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zen_industrialhflooringicon.png",
+  "description": "Bulky alloy flooring with hazard paint.",
+  "shortdescription": "Industrial Hazard Flooring",
+  "materialId": 12239
+}

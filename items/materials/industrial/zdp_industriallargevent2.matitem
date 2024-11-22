@@ -1,0 +1,10 @@
+{
+  "itemName": "zdp_industriallargevent2",
+  "price": 0,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zdp_industriallargevent2icon.png",
+  "description": "A large vent for large structures.",
+  "shortdescription": "^#647387;[IND]^reset; Large Vent",
+  "materialId": 12244
+}

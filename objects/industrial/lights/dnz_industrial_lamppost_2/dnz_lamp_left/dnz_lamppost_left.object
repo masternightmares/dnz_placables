@@ -1,0 +1,63 @@
+{
+  "objectName" : "dnz_lamppost_left",
+  "colonyTags" : ["light"],
+  "rarity" : "Uncommon",
+  "description" : "A basic metal street lamp.",
+  "shortdescription" : "Industrial Street Lamp L",
+  "race" : "generic",
+
+  "category" : "light",
+  "price" : 140,
+  "lightColor" : [174, 185, 189],
+  "pointLight" : true,
+  "pointBeam" : 2,
+  "beamAmbience" : 0.25,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "dnz_lamppost_left.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+
+      "direction" : "left",
+
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "dnz_lamppost_left.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+	  "lightPosition" : [1, 7],
+	  "beamAngle": 270,
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "dnz_lamppost_left.png",
+    "fg" : "fullbright_left.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  "interactive" : false,
+  "inputNodes" : [[0, 0]]
+}

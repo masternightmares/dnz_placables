@@ -1,0 +1,22 @@
+{
+  "materialId" : 12242,
+  "materialName" : "zen_industrialverticallattice",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "zen_industrialverticallattice",
+  "description" : "A thin lattice that's stronger than it looks.",
+  "shortdescription" : "Industrial Vertical Lattice",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "health" : 10,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zen_industrialverticallattice.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

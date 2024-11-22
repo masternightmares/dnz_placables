@@ -1,0 +1,38 @@
+{
+  "objectName": "dnz_industrialchair",
+  "colonyTags": ["commerce"],
+  "rarity": "Uncommon",
+  "description": "A lightweight alloy chair.",
+  "shortdescription": "Industrial Chair",
+  "race": "generic",
+  "category": "furniture",
+  "price": 100,
+  
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon": "icon.png",
+  
+  "orientations": [{
+      "image": "dnz_industrialchair.png:<color>",
+      "imagePosition": [-8, 0],
+      "direction": "left",
+      "flipImages": true,
+      "frames": 1,
+      "animationCycle": 0.5,
+      "sitPosition" : [7, 23],
+      "spaceScan": 0.1,
+      "anchors": ["bottom"]
+
+    }, {
+      "image": "dnz_industrialchair.png:<color>",
+      "imagePosition": [-8, 0],
+      "direction": "right",
+      "frames": 1,
+      "animationCycle": 0.5,
+      "sitPosition" : [7, 23], 
+      "spaceScan": 0.1,
+      "anchors": ["bottom"]
+    }
+  ]
+}

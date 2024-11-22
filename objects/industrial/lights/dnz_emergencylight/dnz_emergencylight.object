@@ -1,0 +1,42 @@
+{
+  "objectName" : "dnz_emergencylight",
+  "colonyTags" : ["light"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "lightColor" : [98, 68, 0],
+  "price" : 60,
+  "printable" : false,
+  "description" : "a orange yellow dim light.",
+  "shortdescription" : "Small Emergency Light",
+  "race" : "generic",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "dnz_emergencylight.png:<color>.<frame>", "fullbright" : true }, { "image" : "fullbright.png:<color>.<frame>" } ],
+      "imagePosition" : [0, 0],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "dnz_emergencylight.png"
+  },
+  "animationPosition" : [0, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : true,
+
+  "inputNodes" : [ [0, 0] ]
+  
+}

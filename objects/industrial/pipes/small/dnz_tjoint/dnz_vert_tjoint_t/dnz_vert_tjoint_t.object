@@ -1,0 +1,20 @@
+{
+  "objectName" : "dnz_vert_tjoint_t",
+  "rarity" : "Uncommon",
+  "description" : "A small lenth pipe of metal.",
+  "shortdescription" : "Small T-joint Pipe (V-T)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 125,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+ {
+      "image" : "dnz_vert_tjont_top.png:<color>",
+      "imagePosition" : [0, 0],    
+      "spaceScan" : 0.01,
+      "anchors" : [ ]   
+    }
+  ]
+}
+	

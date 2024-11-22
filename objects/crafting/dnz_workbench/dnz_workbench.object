@@ -9,7 +9,7 @@
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "  D.N.Z Crafting Table",
-        "subtitle" : " precision crafting!",
+        "subtitle" : "Precision Crafting!",
         "icon" : {
           "file" : "/interface/crafting/dnz_gui_icon.png"
         }

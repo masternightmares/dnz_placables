@@ -1,0 +1,19 @@
+{
+  "materialId" : 12238,
+  "materialName" : "dnz_darkmetal_platform",
+  "collisionKind" : "platform",
+  "itemDrop" : "dnz_darkmetal_platform",
+  "shortdescription" : "Dark Metal Platform",
+  "description" : "Nicely finished dark metal platforms.",
+  "footstepSound" : "/sfx/blocks/footstep_metallic.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "dnz_darkmetal_platform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "zLevel" : 0
+  }
+}

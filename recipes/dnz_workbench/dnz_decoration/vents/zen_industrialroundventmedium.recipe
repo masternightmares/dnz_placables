@@ -8,5 +8,5 @@
     "item": "zen_industrialroundventmedium",
     "count": 1
   },
-  "groups": ["dnz_workbench", "dnz_decoration"]
+  "groups": ["dnz_workbench", "dnz_vents"]
 }

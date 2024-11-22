@@ -1,0 +1,9 @@
+{
+  "itemName": "zpr_xreinforcement2",
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zpr_xreinforcement2.png",
+  "description": "A sturdy reinforced lattice",
+  "shortdescription": "Reinforced Lattice",
+  "materialId": 12241
+}

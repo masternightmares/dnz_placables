@@ -6,5 +6,5 @@
     "item" : "dnz_workbench",
     "count" : 1
   },
-  "groups" : [ "plain","all" ]
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
 }

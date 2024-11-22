@@ -1,0 +1,24 @@
+{
+  "objectName" : "dnz_bend_top",
+  "rarity" : "Uncommon",
+  "description" : "A small elbow pipe of metal.",
+  "shortdescription" : "Small Elbow Pipe (top)",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 125,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "dnz_bend_top.png:<color>",
+
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

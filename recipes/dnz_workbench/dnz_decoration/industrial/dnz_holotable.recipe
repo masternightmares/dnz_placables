@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "zen_industrialalloy", "count" : 1 }
+  ],
+  "output" : { "item" : "dnz_holotable", "count" : 1 },
+  "duration" : 0.20,
+  "groups": ["dnz_workbench", "dnz_decoration"]
+}

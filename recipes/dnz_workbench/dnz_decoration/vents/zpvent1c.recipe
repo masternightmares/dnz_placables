@@ -4,5 +4,5 @@
   ],
   "output" : { "item" : "zpvent1c", "count" : 1 },
   "duration" : 0.60,
-  "groups": ["dnz_workbench", "dnz_decoration"]
+  "groups": ["dnz_workbench", "dnz_vents"]
 }

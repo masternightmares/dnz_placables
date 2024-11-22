@@ -1,0 +1,22 @@
+{
+  "materialId" : 12240,
+  "materialName" : "zpr_reinforcement",
+  "particleColor" : [55, 55, 55, 255],
+  "itemDrop" : "zpr_reinforcement",
+  "description" : "A sturdy reinforced lattice.",
+  "shortdescription" : "Reinforced Lattice",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 6,
+  "category" : "materials",
+  "blocksLiquidFlow" : false,
+
+  "renderTemplate" : "/tiles/pipetemplate.config",
+  "renderParameters" : {
+    "texture" : "zpr_reinforcement.png",
+    "variants" : 8,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

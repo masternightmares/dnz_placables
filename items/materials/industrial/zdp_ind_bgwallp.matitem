@@ -1,0 +1,10 @@
+{
+  "itemName": "zdp_ind_bgwallp",
+  "price": 3,
+  "category": "block",
+  "rarity": "Uncommon",
+  "inventoryIcon": "zdp_ind_bgwallp_icon.png",
+  "description": "A strong, recessed metal wall lined with pipes.",
+  "shortdescription": "^#647387;[IND]^reset; Background Pipe Wall",
+  "materialId": 12243
+}

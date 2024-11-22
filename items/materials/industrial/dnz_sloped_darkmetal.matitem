@@ -1,0 +1,11 @@
+{
+  "itemName" : "dnz_sloped_darkmetal",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "dnz_sloped_darkmetal.png",
+  "shortdescription" : "Dark Metal Panel",
+  "description" : "A dark sloped metal pannel",
+  
+  "materialId" : 12245
+}
