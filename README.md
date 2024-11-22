@@ -1,2 +1,2 @@
 # DNZ_Placables
-zennles placeables and arcana themed stuff and more
+zennles placeables and new stuff
