@@ -1,4 +1,4 @@
-# DNZ_Placables
+# DNZ_Placeables
 zennles placeables 
 
 -this mod is a continuation of zennles placeables and zennles better placeables combined in one mod.
